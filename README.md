@@ -1,2 +1,2 @@
 # parkwise
-A smart IoT based parking system.
+A smart IoT-based parking system.
